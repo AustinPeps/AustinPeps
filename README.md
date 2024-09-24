@@ -1,3 +1,3 @@
-Just a guy working on a Molecular Engine.
+Maybe one day I'll have an open source project.
 
 @AustinPeps
